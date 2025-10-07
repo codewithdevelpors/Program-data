@@ -1,3 +1,0 @@
-html,body{height:100%;margin:0;background:#000;display:grid;place-items:center;overflow:hidden}
-.tunnel{position:relative;width:100vw;height:100vh}
-.ring{position:absolute;border-radius:50%;border:6px solid;opacity:.9;box-shadow:0 0 30px}

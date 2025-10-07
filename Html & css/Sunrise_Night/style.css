@@ -1,4 +1,0 @@
-html,body{height:100%;margin:0;background:linear-gradient(#87CEEB,#013);overflow:hidden}
-.scene{position:relative;width:100vw;height:100vh;overflow:hidden}
-.sun,.moon{position:absolute;width:120px;height:120px;border-radius:50%;top:60%;left:10%;transform:translate(-50%,-50%);box-shadow:0 0 80px rgba(255,200,80,0.6)}
-.moon{background:#eef;box-shadow:0 0 40px rgba(200,220,255,0.2)}
