@@ -1,0 +1,4 @@
+html,body{height:100%;margin:0;background:#050006;display:grid;place-items:center;font-family:system-ui}
+.wrap{perspective:800px}
+h1{font-size:12vmin;letter-spacing:12px;color:#0ff;text-shadow:0 0 24px #0ff,0 0 60px #0ff,0 0 100px rgba(0,255,255,0.25);transform-style:preserve-3d;margin:0}
+h1 span{display:inline-block;transform-origin:50% 50%}
